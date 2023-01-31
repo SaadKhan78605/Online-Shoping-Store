@@ -1,0 +1,397 @@
+/* HEADER SECTION */
+
+@media screen and (max-width: 898px) {
+    #saad {
+        font-size: 21px;
+    }
+
+    ul li {
+        padding: 0 9px;
+    }
+
+    nav {
+      padding: 0 24px;
+    }
+}
+@media screen and (max-width: 776px) {
+    nav {
+        padding: 0 6px;
+    }
+}
+@media screen and (max-width: 740px) {
+    nav {
+        flex-direction: column;
+        height: 120px;
+        justify-content: unset;
+    }
+
+    #saad {
+        padding: 24px;
+        font-size: 26px;
+    }
+}
+
+@media screen and (max-width: 585px) {
+    nav {
+        padding: 0 8px;
+        height: 120px;
+    }
+
+    ul li a {
+        font-size: 19px;
+    }
+}
+@media screen and (max-width: 547px) {
+    ul li {
+        padding: 0 6px;
+    }
+}
+@media screen and (max-width: 513px) {
+    nav {
+        height: 298px;
+    }
+
+    nav ul {
+        flex-direction: column;
+    }
+
+    ul li {
+        padding: 7px 9px;
+    }
+}
+
+@media screen and (max-width: 263px) {
+    #saad {
+        font-size: 19px
+    }
+
+    nav {
+        height: 300px;
+    }
+}
+
+/* MAIN SECTION HOME */
+
+@media screen and (max-width: 820px) {
+    .container h1 {
+        font-size: 3rem;
+    }
+}
+
+@media screen and (max-width: 674px) {
+    .container h1 {
+        font-size: 2.5rem;
+    }
+}
+
+@media screen and (max-width: 557px) {
+    .container h1 {
+        font-size: 2rem;
+    }
+}
+
+@media screen and (max-width: 458px) {
+    .container h1 {
+        font-size: 1.8rem;
+    }
+
+    .buttons .btn-1 {
+        padding: 9px 14px;
+        font-size: 16px;
+    }
+
+    .buttons .btn-2 {
+        padding: 9px 14px;
+        font-size: 16px;
+    }
+
+    .buttons .btn-1:hover {
+        font-size: 18px;
+    }
+
+    .buttons .btn-2:hover {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 743px) {
+    .container::before {
+        height: 103vh;
+    }
+}
+
+@media screen and (max-width: 513px) {
+    .container::before {
+        height: 124vh;
+    }
+}
+
+/* MAIN SECTION SECTION-1 */
+
+@media screen and (max-width: 1477px) {
+    #section-1 {
+        padding: 40px 10px;
+    }
+
+    .row-1,
+    .row-2 {
+        flex-wrap: wrap;
+    }
+
+    .row-1 .box {
+        margin-top: 15px;
+    }
+
+    .row-2 .box {
+        margin-top: 15px;
+    }
+}
+
+@media screen and (max-width: 625px) {
+    #section-1 h1 {
+        font-size: 2.5rem;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .shirts-section .row-1 {
+        margin-top: 0;
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width: 402px) {
+    #section-1 h1 {
+        font-size: 2rem;
+    }
+}
+
+@media screen and (max-width: 343px) {
+    #section-1 p {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 314px) {
+    .buttons2 .btn-5 {
+        display: none;
+    }
+}
+
+/* MAIN SECTION SECTION-2 */
+
+@media screen and (max-width: 685px) {
+    #section-2 h1 {
+        font-size: 2rem;
+    }
+}
+
+@media screen and (max-width: 626px){
+    form{
+        width: 453px;
+    }
+}
+@media screen and (max-width: 524px){
+    #section-2 h1 {
+        font-size: 1.7rem;
+    }
+    form label{
+        font-size: 1.1rem;
+    }
+}
+@media screen and (max-width: 478px){
+    form{
+        width: 370px;
+    }
+    form label{
+        font-size: 1rem;
+    }
+}
+@media screen and (max-width: 399px){
+    #section-2 h1{
+        font-size: 1.4rem;
+    }
+    form{
+        width: 330px;
+    }
+}
+@media screen and (max-width: 350px){
+    form{
+        width: 270px;
+    }
+    #section-2 h1{
+        font-size: 1.3rem;
+    }
+}
+@media screen and (max-width: 311px){
+    #section-2 h1{
+        font-size: 1rem;
+    }
+}
+@media screen and (max-width: 288px){
+    form{
+        width: 220px;
+    }
+    #section-2 h1{
+        text-align: center;
+    }
+}
+
+
+  /* MAIN SECTION SECTION-3 */
+
+  @media screen and (max-width: 1477px) {
+    #section-3 {
+        padding: 40px 10px;
+    }
+
+    .row-3,
+    .row-4 {
+        flex-wrap: wrap;
+    }
+
+    .row-3 .box {
+        margin-top: 15px;
+    }
+
+    .row-4 .box {
+        margin-top: 15px;
+    }
+}
+
+@media screen and (max-width: 625px) {
+    #section-3 h1 {
+        font-size: 2.5rem;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .electronics-section .row-3 {
+        margin-top: 0;
+        padding: 10px;
+    }
+}
+@media screen and (max-width: 414px) {
+    #section-3 h1 {
+        font-size: 2rem;
+    }
+}
+
+@media screen and (max-width: 343px) {
+    #section-3 p {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 314px) {
+    .buttons3 .btn-9 {
+        display: none;
+    }
+}
+
+
+/* MAIN SECTION SECTION-4 */
+
+@media screen and (max-width: 931px){
+.table{
+    padding: 18px 0px;
+}
+}
+@media screen and (max-width: 838px){
+    #section-4{
+        padding: 20px 14px;
+    }
+    .table{
+        padding: 0px 0px;
+    }
+    .table .table-1{
+        width: 260px;
+        margin-right: 25px;
+    }
+    .table .table-2{
+        width: 260px;
+    }
+    .table .table-3{
+        width: 260px;
+    }
+    .table .table-4{
+        width: 260px;
+    }
+}
+@media screen and (max-width: 828px){
+    .table{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .table .table-1{
+        margin-bottom: 55px;
+        margin-right: 0;
+    }
+    .table .table-2{
+        margin-bottom: 55px;
+    }
+    .table .table-3{
+        margin-bottom: 55px;
+    }
+    .table-1 h2 {
+        margin-bottom: 10px;
+    }
+    .table-2 h2 {
+        margin-bottom: 10px;
+    }
+    .table-3 h2 {
+        margin-bottom: 10px;
+    }
+    .table-4 h2 {
+        margin-bottom: 10px;
+    }
+}
+@media screen and (max-width: 636px){
+    #section-4 h1{
+        font-size: 2.5rem;
+    }
+}
+@media screen and (max-width: 348px){
+    #section-4 h1{
+        font-size: 2rem;
+    }
+}
+
+
+/* FOOTER SECTION */
+
+@media screen and (max-width: 604px){
+footer p{
+    font-size: 1rem;
+}
+}
+@media screen and (max-width: 406px){
+    footer p{
+        font-size: 0.9rem;
+    }
+}
+@media screen and (max-width: 362px){
+    footer p{
+        text-align: center;
+    }
+}
+
+
+/* FOR MARQUEE SECTION */
+
+@media screen and (max-width: 431px){
+    #section-1 marquee{
+        width: 335px;
+    }
+    #section-3 marquee{
+        width: 335px;
+    }
+}
+@media screen and (max-width: 352px){
+    #section-1 marquee {
+        width: 273px;
+    }
+    #section-3 marquee {
+        width: 273px;
+    }
+}
